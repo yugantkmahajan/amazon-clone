@@ -33,6 +33,12 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
+![Screenshot (2)](https://user-images.githubusercontent.com/73744219/152698514-7ea75ad3-3039-454b-8558-d6d8cdbd51c1.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/73744219/152698520-18650886-320a-4b32-90d3-8a034d52919f.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/73744219/152698522-238e745f-9d0f-4f10-9b98-44f9eef10bd2.png)
+![Screenshot (1)](https://user-images.githubusercontent.com/73744219/152698523-b22e8a3b-3dd3-4c0a-bb76-1e12aad586f6.png)
+
+
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
